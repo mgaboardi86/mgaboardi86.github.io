@@ -118,7 +118,7 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Welcome! I'm a Physicist and Materials Scientist working on the structural, electronic, and chemical properties of functional materials. My research focuses on understanding the relationship between material structure and properties using advanced characterization techniques, with particular interest in neutron and X-ray diffraction and spectroscopies."
   location         : "Somewhere"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
