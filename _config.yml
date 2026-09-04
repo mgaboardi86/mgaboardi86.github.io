@@ -116,8 +116,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Mattia Gaboardi"
+  avatar           : "photo_5.jpg"
   bio              : "Welcome! I'm a Physicist and Materials Scientist working on the structural, electronic, and chemical properties of functional materials. My research focuses on understanding the relationship between material structure and properties using advanced characterization techniques, with particular interest in neutron and X-ray diffraction and spectroscopies."
   location         : "Somewhere"
   email            :
@@ -125,7 +125,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:mattia.gaboardi@uniroma2.it"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
