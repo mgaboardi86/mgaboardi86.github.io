@@ -2,3 +2,6 @@
 layout: home
 author_profile: true
 ---
+<h2>Selected Publications</h2>
+
+{% bibliography --file publications --query "@*[selected=true]" %}
