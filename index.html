@@ -3,3 +3,16 @@ layout: home
 author_profile: true
 ---
 
+## Selected Publications
+
+{% for publication in site.data.publications limit:5 %}
+
+**{{ publication.title }}**
+
+{{ publication.authors }}. *{{ publication.journal }}*, {{ publication.year }}, {{ publication.volume }}, {{ publication.pages }}.
+
+{% if publication.doi != "" %}
+[DOI](https://doi.org/{{ publication.doi }})
+{% endif %}
+
+{% endfor %}
