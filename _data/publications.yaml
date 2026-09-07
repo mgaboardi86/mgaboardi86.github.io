@@ -1,8 +1,28 @@
-- title: "First publication title"
-  authors: "M. Gaboardi, A. Author, B. Author"
-  journal: "Journal of Materials Chemistry A"
-  year: 2025
-  volume: "13"
-  pages: "1234-1245"
+- title: "Deep supercooling, crystallisation & dynamically tunable disorder in the simplest geodesic polyarene"
+  authors: "V. Di Lisio, M. Gaboardi, J. Siegel, D. Cangialosi, and F. Fernandez-Alonso"
+  journal: "Org. Chem. Front."
+  year: 2026
+  volume: "13(17)"
+  pages: "5612-5621"
   doi: "10.1234/example.doi"
   selected: true
+
+- title: "Curvature-induced vitrification and polymorphism in corannulene"
+  authors: "M. Gaboardi, V. Di Lisio, B. Braunewell, J. Siegel, D. Cangialosi, and F. Fernandez-Alonso"
+  journal: "Communication Chemistry"
+  year: 2026
+  volume: "9(1)"
+  pages: "173"
+  doi: "10.1038/s42004-026-01976-x"
+  selected: true
+  
+- title: "Methylammonium Lead Iodide across Physical Space: Phase Boundaries and Structural Collapse"
+  authors: "P. Marin-Villa, M. Gaboardi, B. Joseph, F. Alabarse, J. Armstrong, K. Drużbicki, F. Fernandez-Alonso"
+  journal: "J. Phys. Chem. Lett."
+  year: 2026
+  volume: "1+"
+  pages: "184-190"
+  doi: "10.1021/acs.jpclett.4c03336"
+  selected: true
+
+  
