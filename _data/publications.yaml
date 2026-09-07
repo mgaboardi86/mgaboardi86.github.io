@@ -4,7 +4,7 @@
   year: 2026
   volume: "13(17)"
   pages: "5612-5621"
-  doi: "10.1234/example.doi"
+  doi: "10.1039/D6QO00599C"
   selected: true
 
 - title: "Curvature-induced vitrification and polymorphism in corannulene"
@@ -20,9 +20,26 @@
   authors: "P. Marin-Villa, M. Gaboardi, B. Joseph, F. Alabarse, J. Armstrong, K. Drużbicki, F. Fernandez-Alonso"
   journal: "J. Phys. Chem. Lett."
   year: 2026
-  volume: "1+"
+  volume: "1"
   pages: "184-190"
   doi: "10.1021/acs.jpclett.4c03336"
   selected: true
 
+- title: "Optimization of the limits of detection and quantitation on pulsed compact neutron systems–the cases of chlorine and sulfur in cementitious media"
+  authors: "C. Macia-Castello, D. Blanco, M. Gaboardi, J.S. Dolado, Y. Wakabayashi, T. Fukuchi, Y. Ikeda, Y. Otake, F. Fernandez-Alonso"
+  journal: "The European Physical Journal Plus"
+  year: 2025
+  volume: "141"
+  pages: "511"
+  doi: "10.1140/epjp/s13360-026-07766-7"
+  selected: true
+
+- title: "Metastability and polymorphism in dihydroxybenzenes – implications for thermal energy storage"
+  authors: "T.S. Northam de la Fuente, M. Gaboardi, K.M. Ismail, V. Di Lisio c, D. Cangialosi, A. Otero-de-la-Roza d, P.B. Coto, F. Fernandez-Alonso"
+  journal: "Energy Advances"
+  year: 2024
+  volume: "3(2)"
+  pages: "413–418"
+  doi: "10.1039/D3YA00510K"
+  selected: true
   
