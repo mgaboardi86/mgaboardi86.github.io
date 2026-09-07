@@ -65,7 +65,12 @@
   authors: "M. Gaboardi, F. Monteverde, F. Saraga, G. Aquilanti, L. Feng, W. Fahrenholtz, G. Hilmas"
   journal: "Acta Materialia"
   year: 2022
-  volume: "239"
-  pages: "118294"
-  doi: "10.1016/j.actamat.2022.118294"
+
+- title: "Emergence of dynamical disorder and phase metastability in carbon nanobowls"
+  authors: "M. Gaboardi, I. Silverwood, B. Braunewell, J. Siegel, F. Fernandez-Alonso"
+  journal: "Carbon"
+  year: 2021
+  volume: "183"
+  pages: "196-204"
+  doi: "10.1016/j.carbon.2021.07.003"
   selected: true
