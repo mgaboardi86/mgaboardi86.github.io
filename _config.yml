@@ -132,15 +132,18 @@ author:
     - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"      
       url: "https://scholar.google.it/citations?hl=it&user=NAHHRogAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "Scopus"
+      icon: "fas fa-fw fa-link"      
+      url: "https://www.scopus.com/authid/detail.uri?authorId=54404679800"
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"      
+      url: "https://orcid.org/0000-0003-3340-4469"
     - label: "Linkedin"
-      icon: "fa fa-linkedin-square"
+      icon: "fa-brands fa-linkedin"
       url: "https://it.linkedin.com/in/mgaboardi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mgaboardi86"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
