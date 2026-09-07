@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "CV"
 layout: single
 permalink: /about/
 author_profile: true
@@ -9,7 +9,7 @@ author_profile: true
 
 I am a physicist and materials scientist working on the structural, electronic, and chemical properties of functional materials.
 
-My research focuses on understanding the relationship between material structure and properties using advanced characterization techniques, with particular interest in neutron and X-ray diffraction and spectroscopies.
+My research focuses on understanding the relationship between material structure and properties using advanced characterization techniques, with particular interest in neutron and X-ray diffraction and spectroscopy.
 
 ## Research interests
 
