@@ -133,7 +133,7 @@ author:
       icon: "fa-brands fa-google-scholar"      
       url: "https://scholar.google.it/citations?hl=it&user=NAHHRogAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Scopus"
-      icon: "fas fa-fw fa-link"      
+      icon: "ai ai-scopus"      
       url: "https://www.scopus.com/authid/detail.uri?authorId=54404679800"
     - label: "ORCID"
       icon: "fa-brands fa-orcid"      
