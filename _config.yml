@@ -119,7 +119,7 @@ author:
   name             : "Mattia Gaboardi"
   avatar           : "photo_5.jpg"
   bio              : "Welcome! I'm a Physicist and Materials Scientist working on the structural, electronic, and chemical properties of functional materials. My research focuses on understanding the relationship between material structure and properties using advanced characterization techniques, with particular interest in neutron and X-ray diffraction and spectroscopies."
-  location         : "Somewhere"
+  location         : "Rome, Italy."
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -128,18 +128,18 @@ author:
       url: "mailto:mattia.gaboardi@uniroma2.it"
     - label: "ResearchGate"
       icon: "fa-brands fa-researchgate" #"fas fa-fw fa-link"
-      url: "https://www.researchgate.net/profile/Mattia-Gaboardi"
-    - label: "Linkedin"
-      icon: "fa fa-linkedin-square"
-      url: "https://www.linkedin.com/in/mattia-gaboardi-phd-46941560/?originalSubdomain=it"
-    - label: "Facebook"
+      url: "https://www.researchgate.net/profile/Mattia-Gaboardi"    
+    - label: "Google Scholar"
       icon: "fa-brands fa-google-scholar"      
       url: "https://scholar.google.it/citations?hl=it&user=NAHHRogAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "Linkedin"
+      icon: "fa fa-linkedin-square"
+      url: "https://it.linkedin.com/in/mgaboardi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mgaboardi86"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
