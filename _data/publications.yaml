@@ -1,0 +1,8 @@
+- title: "First publication title"
+  authors: "M. Gaboardi, A. Author, B. Author"
+  journal: "Journal of Materials Chemistry A"
+  year: 2025
+  volume: "13"
+  pages: "1234-1245"
+  doi: "10.1234/example.doi"
+  selected: true
