@@ -11,9 +11,9 @@ search: false
 /* Custom styles */
 
 /* Profile picture */
-.author__avatar img {
-  width: 240px;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 50%;
+.author__avatar .u-photo {
+  width: 240px !important;
+  height: 180px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
 }
