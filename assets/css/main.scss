@@ -21,3 +21,27 @@ search: false
   height: auto !important;
   border-radius: 0 !important;
 }
+
+
+.publication-list {
+  padding-left: 1.25rem;
+  margin-top: 1rem;
+}
+
+.publication-list li {
+  margin-bottom: 1.25rem;
+  padding-left: 0.25rem;
+  line-height: 1.6;
+}
+
+.publication-list strong {
+  font-weight: 600;
+}
+
+.publication-authors {
+  color: #777;
+}
+
+.publication-list a {
+  white-space: nowrap;
+}
